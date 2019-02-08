@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="code">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>Eb</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>Bb</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="scale">
+        <item>라</item>
+        <item>라#</item>
+        <item>시</item>
+        <item>도b</item>
+        <item>도</item>
+        <item>레</item>
+        <item>레#</item>
+        <item>미</item>
+        <item>미#</item>
+        <item>파</item>
+        <item>솔b</item>
+        <item>솔</item>
+    </string-array>
+
+    <string-array name="frequency">
+        <item>65.41</item>
+        <item>69.30</item>
+        <item>73.42</item>
+        <item>77.78</item>
+        <item>82.41</item>
+        <item>87.31</item>
+        <item>92.50</item>
+        <item>98.00</item>
+        <item>103.8</item>
+        <item>110.0</item>
+        <item>116.5</item>
+        <item>123.5</item>
+        <item>130.8</item>
+        <item>138.6</item>
+        <item>146.8</item>
+        <item>155.6</item>
+        <item>164.8</item>
+        <item>174.6</item>
+        <item>185.0</item>
+        <item>196.0</item>
+        <item>207.7</item>
+        <item>220.0</item>
+        <item>233.1</item>
+        <item>246.9</item>
+        <item>261.6</item>
+        <item>277.2</item>
+        <item>293.7</item>
+        <item>311.1</item>
+        <item>329.6</item>
+        <item>349.2</item>
+        <item>370.0</item>
+        <item>392.0</item>
+        <item>415.3</item>
+        <item>440.0</item>
+        <item>466.2</item>
+        <item>493.9</item>
+        <item>523.3</item>
+        <item>554.4</item>
+        <item>587.3</item>
+        <item>622.3</item>
+        <item>659.3</item>
+        <item>698.5</item>
+        <item>740.0</item>
+        <item>784.0</item>
+        <item>830.6</item>
+        <item>880.0</item>
+        <item>932.3</item>
+        <item>987.8</item>
+        <item>1047.0</item>
+        <item>1109.0</item>
+        <item>1175.0</item>
+        <item>1245.0</item>
+        <item>1319.0</item>
+        <item>1397.0</item>
+        <item>1480.0</item>
+        <item>1568.0</item>
+        <item>1661.0</item>
+        <item>1760.0</item>
+        <item>1865.0</item>
+        <item>1976.0</item>
+    </string-array>
+</resources>

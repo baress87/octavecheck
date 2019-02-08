@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OctaveCheck</string>
+
+    <string name="title_permission">앱을 사용하기 위해 해당 권한이 요구 됩니다.</string>
+    <string name="title_record_audio">오디오 마이크</string>
+    <string name="explan_record_audio">단말기의 마이크를 사용하기 위한 권한이 필요 합니다.\n마이크 소리를 수집하는데에 사용 됩니다.</string>
+
+    <string name="mark_ok">확인</string>
+</resources>
